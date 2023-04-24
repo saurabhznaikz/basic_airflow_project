@@ -1,6 +1,8 @@
 # basic_airflow_project
 This project explains about how to create a basic data pipeline using Airflow as an orchestrator for all the data tasks
 
+## Pre-Requisite
+Plese keep the airflow installation ready with docker and then perform this tasks
 
 ## Installation
 Create virtual environment for python 3.8
